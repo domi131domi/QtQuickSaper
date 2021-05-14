@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>4.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>bomb.png</file>
+        <file>empty.png</file>
+        <file>flag.png</file>
+        <file>UnrevieledField.png</file>
+        <file>EndGameText.qml</file>
+        <file>Points.qml</file>
+    </qresource>
+</RCC>
